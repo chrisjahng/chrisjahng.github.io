@@ -19,16 +19,20 @@ html[xmlns] .clearfix { display:block; }
 /* !Basics */
 html { width:100%; height:100%; position:relative; }
 body { width:100%; height:100%; position:relative; }
-body { color: #68676e; font-family: 'Open Sans', sans-serif; font-weight: 300; font-size:12px; }
+body { color: #aeadb4; font-family: 'Open Sans', sans-serif; font-weight: 300; font-size:12px; }
 
 /* !Inline */
 h1 { font-family: 'Open Sans', sans-serif; font-weight: 600; font-size:12px; letter-spacing:1px; }
 h2, h2 * { color: #aeadb4; font-family:  'Asap', sans-serif; font-weight: 300; font-size:25px; transform: translate3d(0, 0, 0); -webkit-font-smoothing: antialiased; font-smoothing: antialiased;}
+
 h3 { font-family: 'Open Sans', sans-serif; font-weight: 600; font-size:13px;}
 h5 { font-family: 'Open Sans', sans-serif; font-weight: 300; font-size:13px; font-style : italic;	 }
 h4, h4 * { font-family: 'Open Sans', sans-serif; font-weight: 600; font-size:12px; letter-spacing:1px; color: #68676e !important;}
+h6, h6 * { font-family: 'Open Sans', sans-serif; font-weight: 600; font-size:12px; letter-spacing:1px; color: #858585 !important;}
 p {margin-bottom: 16px;}
 i, cite, em, var, address, dfn { font-family: 'Open Sans', sans-serif; font-weight: 300; font-style:normal;}
+
+
 
 /* !Hyperlinks */
 a, a:link, a:active, a:visited {color: inherit;}
@@ -73,7 +77,7 @@ iframe {position: relative; width: 900px; height: 503px; left: -300px;}
 /* !Specific Modules */
 #navigation .menu-item {display:inline-block; width: 33.3%; overflow: hidden; position: relative;}
 #navigation .menu-item h2 {text-align: center; white-space: nowrap;}
-#navigation .active * { color: #68676e !important; }
+#navigation .active * { color: #68676e !important;}
 #navigation .page-no { font-size:12px; position: absolute; top: 2px;}
 #content .page { width:78%; min-height: 100%; padding-top:300px; position:absolute; }
 #content .active { position:relative; margin:0 6%; left:5%; right:5%; }

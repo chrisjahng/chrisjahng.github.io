@@ -23,7 +23,7 @@ body { color: #aeadb4; font-family: 'Open Sans', sans-serif; font-weight: 300; f
 
 /* !Inline */
 h1 { font-family: 'Open Sans', sans-serif; font-weight: 600; font-size:12px; letter-spacing:1px; }
-h2, h2 * { color: #aeadb4; font-family:  'Asap', sans-serif; font-weight: 300; font-size:25px; transform: translate3d(0, 0, 0); -webkit-font-smoothing: antialiased; font-smoothing: antialiased;}
+h2, h2 * { color: #aeadb4; font-family:  'Open Sans', sans-serif; font-weight: 400; font-size:25px; transform: translate3d(0, 0, 0); -webkit-font-smoothing: antialiased; font-smoothing: antialiased;}
 
 h3 { font-family: 'Open Sans', sans-serif; font-weight: 600; font-size:13px;}
 h5 { font-family: 'Open Sans', sans-serif; font-weight: 300; font-size:13px; font-style : italic;	 }
@@ -53,7 +53,7 @@ p a {text-decoration: underline;}
 .details { margin-top:15px; font-family: 'Open Sans', italic, sans-serif; font-weight: 300; }
 .image { margin:40px auto; }
 .caption { margin-left: auto; margin-bottom: 60px; margin-right: auto; margin-top: 60px; width:300px; }
-.page-number { display: none; background-repeat: no-repeat; height: 20px; width: 20px; position: absolute; top: 45px; right: -4%; text-indent: -9999px;}
+.page-number { display: none; background-repeat: no-repeat; height: 20px; width: 20px; position: absolute; top: 1px; right: -4%; text-indent: -9999px;}
 .back-to-top { z-index: 100; display: block; background-image: url(images/top.png); background-repeat: no-repeat; height: 20px; width: 20px; position: absolute; top: 45px; left: 7.5%; text-indent: -9999px; position: fixed; cursor: pointer;}
 
 /* !Embed modules*/
@@ -70,6 +70,9 @@ iframe {position: relative; width: 900px; height: 503px; left: -300px;}
 #about-page { float: left; clear: left; margin-bottom: 60px;}
 #contacts {float: left;}
 #book-list {float: left; clear: left;}
+#About1 {background-image: url(images/nro1.png); background-repeat: no-repeat;}
+#Work2 {background-image: url(images/nro2.png);}
+#Life3 {background-image: url(images/nro3.png);}
 #news {float: right; width: 50%;}
 
 #disclaimer {position: fixed; left: 0px; right: 0px; top:0; background-color: #eaeaea; padding:50px; text-align: center;}

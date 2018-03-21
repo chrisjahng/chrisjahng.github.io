@@ -11,6 +11,7 @@
     .image img {width: 100%; height: auto;}
     .thin-column { width: 92%; margin-left: 4%; margin-right: 4%; float: none;}
     .work-title { margin-top:0px; }
+    .subtitle { top:250px;}
     #instafeed h3 {display: none;};
 }
 

@@ -24,7 +24,7 @@ body { color: #aeadb4; font-family: 'Open Sans', sans-serif; font-weight: 300; f
 
 /* !Inline */
 h1 { font-family: 'Open Sans', sans-serif; font-weight: 600; font-size:12px; letter-spacing:1px; }
-h2, h2 * { color: #aeadb4; font-family:  'Open Sans', sans-serif; font-weight: 400; font-size:25px; transform: translate3d(0, 0, 0); -webkit-font-smoothing: antialiased; font-smoothing: antialiased;}
+h2, h2 * { color: #aeadb4; font-family:  'Open Sans', sans-serif; font-weight: 600; font-size:25px; transform: translate3d(0, 0, 0); -webkit-font-smoothing: antialiased; font-smoothing: antialiased;}
 h7 { font-family: 'Open Sans', sans-serif; font-weight: 400; font-size:14px; color: #68676e !important;}
 h3 { font-family: 'Open Sans', sans-serif; font-weight: 600; font-size:13px;}
 h5 { font-family: 'Open Sans', sans-serif; font-weight: 300; font-size:13px; font-style : italic;	 }
